@@ -1,7 +1,6 @@
-baseURL = "https://anugerah.netlify.app/"
+baseURL = "https://www.anugerah.preview.usecue.com"
 languageCode = "en-us"
 title = "▞ Anugerah ▚"
-theme = "archie"
 copyright = " Anugerah"
 
 customcss = "css/main.css"
