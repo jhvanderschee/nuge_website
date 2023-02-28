@@ -1,12 +1,11 @@
 ---
-title: "Work"
-date: 2023-01-25T17:43:49+08:00
+title: Work
+date: "2023-01-25 09:43:49"
 draft: false
 toc: true
 ---
-
 ## Arts
-The preview is down, meanwhile go to my Instagram please, sorry for the inconvenience🙏 [@brflook](https://www.instagram.com/brflook/)
+The preview is down, meanwhile go to my Instagram please, sorry for the inconvenience🙏 [@brflook](https://www.instagram.com/brflook/).
 
 ---
 ## Videos & Movies
