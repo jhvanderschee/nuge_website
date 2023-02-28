@@ -4,7 +4,6 @@ date: 2022-07-24T17:50:00+08:00
 ---
 
 It seems like you are interested in me or my works. Find more about me and my contact!
-{{< rawhtml >}}
 
 <table>
   <tr>
@@ -21,4 +20,3 @@ It seems like you are interested in me or my works. Find more about me and my co
     word-break: break-all;">nugehoodg@gmail.com</a></p></td>
   </tr>
 </table>
-{{< /rawhtml >}}
